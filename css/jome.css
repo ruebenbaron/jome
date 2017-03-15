@@ -144,7 +144,7 @@ a:focus {
   vertical-align: middle;
 }
 .intro .intro-body .brand-heading {
-  font-size: 40px;
+  font-size: 60px;
 }
 .intro .intro-body .intro-text {
   font-size: 18px;
@@ -285,7 +285,7 @@ ul.banner-social-buttons {
   margin-top: 0;
 }
 .btn-social {
-  
+
 }
 @media (max-width: 1199px) {
   ul.banner-social-buttons {
