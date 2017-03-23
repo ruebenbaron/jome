@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="139px" height="128px" viewBox="0 0 139 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-139.000000, 0.000000)" stroke-width="4" stroke="#FFFFFF" fill-rule="nonzero">
+            <g id="Heart" transform="translate(141.000000, 2.000000)">
+                <g id="Capa_1">
+                    <path d="M67.095,22.0815217 C72.5436,9.08423913 84.9906,0.0027173913 99.468,0.0027173913 C118.9701,0.0027173913 133.0155,16.7934783 134.7813,36.8043478 C134.7813,36.8043478 135.7344,41.7717391 133.6365,50.7146739 C130.7799,62.8940217 124.065,73.7146739 115.0119,81.9728261 L67.095,125 L19.9854,81.9701087 C10.9323,73.7146739 4.2174,62.8913043 1.3608,50.7119565 C-0.7371,41.7690217 0.216,36.8016304 0.216,36.8016304 C1.9818,16.7907609 16.0272,0 35.5293,0 C50.0094,0 61.6464,9.08423913 67.095,22.0815217 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
