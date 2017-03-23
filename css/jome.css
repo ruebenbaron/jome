@@ -55,10 +55,6 @@ a:focus {
 .light {
   font-weight: 400;
 }
-.highlight {
-  background-color: #46E3A7; /* green */
-  padding: 0px 3px;
-}
 .navbar-nav:first-child{
   margin-top: 0px;
   margin-bottom: 0px;
