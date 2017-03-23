@@ -55,6 +55,14 @@ a:focus {
 .light {
   font-weight: 400;
 }
+.highlight {
+  background-color: #46E3A7; /* green */
+  padding: 0px 3px;
+}
+.navbar-nav:first-child{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
 .navbar-custom {
   margin-bottom: 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
@@ -145,6 +153,7 @@ a:focus {
 }
 .intro .intro-body .intro-text {
   font-size: 18px;
+  display: inline;
 }
 @media (min-width: 768px) {
   .intro {
@@ -335,4 +344,34 @@ body {
 footer {
   margin-top: 200px;
   background-color: #1C3B5C; /* dark-blue */
+}
+.typed-cursor{
+    font-size: 18px;
+    opacity: 1;
+    -webkit-animation: blink 1.0s infinite;
+    -moz-animation: blink 1.0s infinite;
+    animation: blink 1.0s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@media (min-width: 768px) {
+  .typed-cursor{
+    font-size: 26px;
+  }
+}
+.typing {
+  height: 80px;
 }

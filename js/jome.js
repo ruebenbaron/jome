@@ -32,6 +32,16 @@ $('.navbar-collapse ul li a').click(function() {
     $(".navbar-collapse").collapse('hide');
 });
 
+// Typing Effect
+$(function(){
+	$(".intro-text").typed({
+		strings: ["Online-Marketing und Engagement für Wolfenbüttel", "Wir sind ^1000 eine soziale Online-Marketing-Agentur für Unternehmen in Wolfenbüttel und Umgebung", "Schauen Sie sich ruhig etwas um"],
+		typeSpeed: 30,
+    backSpeed: 10,
+    backDelay: 1200
+	});
+});
+
 /*
 // Google Maps Scripts
 var map = null;
