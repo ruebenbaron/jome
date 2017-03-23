@@ -35,7 +35,7 @@ $('.navbar-collapse ul li a').click(function() {
 // Typing Effect
 $(function(){
 	$(".intro-text").typed({
-		strings: ["Online-Marketing und Engagement für Wolfenbüttel", "Wir sind ^1000 eine soziale Online-Marketing-Agentur für Unternehmen in Wolfenbüttel und Umgebung", "Schauen Sie sich ruhig etwas um"],
+		strings: ["Online-Marketing und Engagement für Wolfenbüttel", "Wir sind ^1000 eine soziale Online-Marketing-Agentur für Unternehmen in Wolfenbüttel und Umgebung", "Schauen Sie sich ruhig etwas um ^2000", "Online-Marketing und Engagement für Wolfenbüttel"],
 		typeSpeed: 30,
     backSpeed: 10,
     backDelay: 1200
